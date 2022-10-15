@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="20.0" toolVersion="9.8.5">
+<ModelTarget name="LEDv1Painted" targetId="277a6f7063e3467d9fef7415ca466618" version="11.1" toolVersion="9.8.5" bbox="-0.017250 -0.013498 -0.022525 0.007500 0.013498 0.038900" previewImage="277a6f7063e3467d9fef7415ca466618_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="LEDv1Painteds_assembly" assemblyId="5030126a897e4695920af07c6065687a">
+<Part name="LEDv1Painted" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.00329446 0.00110659 0.0982659" rotation="AD: 0.8752047627452337 1.989770246216016 -0.5481688883930377 167.722" image="LEDv1Painted_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="plus_v3" size="0.015000 0.015000" />
+    <ImageTarget name="plus_V2" size="0.015000 0.015000" />
+    <ImageTarget name="test" size="0.070000 0.024220" />
+    <ImageTarget name="scanner_20210530_085459" size="0.080000 0.027682" />
+    <ImageTarget name="ar_markerar" size="0.040000 0.040000" />
+    <ImageTarget name="ar_marker2" size="0.020000 0.020000" />
+    <ImageTarget name="ar_marker" size="0.097000 0.097000" />
+    <ImageTarget name="Marker2" size="0.043000 0.013129" />
+    <ImageTarget name="IMG" size="0.090000 0.280898" />
+    <CylinderTarget name="LED-cylinder1" sideLength="0.025000"/>
+  </Tracking>
+</QCARConfig>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="20.0" toolVersion="9.8.5">
+<ModelTarget name="resistorPaintedV2" targetId="f9214aa58ac3475280906fa41c154860" version="11.1" toolVersion="9.8.5" bbox="-0.005926 -0.009774 -0.009500 0.006074 0.019229 0.040500" previewImage="f9214aa58ac3475280906fa41c154860_preview.jpg"/>
+<ModelTarget name="LEDpaintedV1" targetId="29c7e1bd939240aeaa910bde4f7473af" version="11.1" toolVersion="9.8.5" bbox="-0.011250 -0.013498 -0.027000 0.013500 0.013498 0.036250" previewImage="29c7e1bd939240aeaa910bde4f7473af_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="resistorPaintedV2s_assembly" assemblyId="109794baa58546ae8e8de8fe8b5d29c2">
+<Part name="resistorPaintedV2" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0150892 0.00237555 0.0792049" rotation="AD: 0.9924036647117264 0.20544320008586178 -0.7824079599852829 203.008" image="resistorPaintedV2_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="LEDpaintedV1s_assembly" assemblyId="68ddf06022754feab7cb036b4d083285">
+<Part name="LEDpaintedV1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.000760259 0.00303517 0.0949471" rotation="AD: 0.8799453969536288 2.0005480464832974 -0.5373999103990126 168.009" image="LEDpaintedV1_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase mtDBid="5ff67864390047dba25012b850d706eb" name="test4" toolVersion="13.0" version="13.0">
+    <RecognitionResult assemblyId="109794baa58546ae8e8de8fe8b5d29c2" assemblyName="resistorPaintedV2" entryPoint="viewpoint_0000" />
+    <RecognitionResult assemblyId="68ddf06022754feab7cb036b4d083285" assemblyName="LEDpaintedV1" entryPoint="viewpoint_0000" />
+</ModelTargetDatabase>
+
+</QCARInfo>

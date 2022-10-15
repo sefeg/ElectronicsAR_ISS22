@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="LED1" version="3.0" targetId="7bacca66d86c4fd1bea549571b16bf11" sideLength="0.025000" topDiameter="0.022500" bottomDiameter="0.022500" sideImage="LED1.Body_scaled.jpg"/>
+        <CylinderTarget name="LED2" version="3.0" targetId="606d52f52bd54118abe4d859b94a2abf" sideLength="0.025000" topDiameter="0.022500" bottomDiameter="0.022500" sideImage="LED2.Body_scaled.jpg"/>
+        <CylinderTarget name="R4V2" version="3.0" targetId="920d29b91c2a4a71b653691995e81f51" sideLength="0.023000" topDiameter="0.014000" bottomDiameter="0.014000" sideImage="R4V2.Body_scaled.jpg"/>
+        <CylinderTarget name="R3V2" version="3.0" targetId="280e6af3518841b2a082fdb0a0d9dd07" sideLength="0.023000" topDiameter="0.014000" bottomDiameter="0.014000" sideImage="R3V2.Body_scaled.jpg"/>
+        <CylinderTarget name="R2V2" version="3.0" targetId="c33f452668334e6195ef8b699225769f" sideLength="0.023000" topDiameter="0.014000" bottomDiameter="0.014000" sideImage="R2V2.Body_scaled.jpg"/>
+        <CylinderTarget name="R1v2" version="3.0" targetId="2ead2c2c5c774219b6f7e316b485b994" sideLength="0.023000" topDiameter="0.014000" bottomDiameter="0.014000" sideImage="R1v2.Body_scaled.jpg"/>
+        <CylinderTarget name="R4" version="3.0" targetId="ba46d2c07591466e9382cc56e688d8ce" sideLength="0.030000" topDiameter="0.012000" bottomDiameter="0.012000" sideImage="R4.Body_scaled.jpg"/>
+        <CylinderTarget name="R3" version="3.0" targetId="34f5505791ce49318d9243c67abf7167" sideLength="0.030000" topDiameter="0.012000" bottomDiameter="0.012000" sideImage="R3.Body_scaled.jpg"/>
+        <CylinderTarget name="R2" version="3.0" targetId="16cd9b60f52a41b49ee6bcaaee280132" sideLength="0.030000" topDiameter="0.012000" bottomDiameter="0.012000" sideImage="R2.Body_scaled.jpg"/>
+        <CylinderTarget name="R1" version="3.0" targetId="cb5cb365c7de452197377789b5e2025b" sideLength="0.030000" topDiameter="0.012000" bottomDiameter="0.012000" sideImage="R1.Body_scaled.jpg"/>
+        <CylinderTarget name="C2" version="3.0" targetId="5e99453603ff492583ca589abf41492c" sideLength="0.028000" topDiameter="0.022000" bottomDiameter="0.022000" sideImage="C2.Body_scaled.jpg" topImage="C2.Top_scaled.jpg"/>
+        <CylinderTarget name="C1" version="3.0" targetId="28f9ebf3c65b473794305b47a5488e65" sideLength="0.028000" topDiameter="0.022000" bottomDiameter="0.022000" sideImage="C1.Body_scaled.jpg" topImage="C1.Top_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

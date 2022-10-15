@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <CylinderTarget name="LED1" sideLength="0.025000"/>
+        <CylinderTarget name="LED2" sideLength="0.025000"/>
+        <CylinderTarget name="R4V2" sideLength="0.023000"/>
+        <CylinderTarget name="R3V2" sideLength="0.023000"/>
+        <CylinderTarget name="R2V2" sideLength="0.023000"/>
+        <CylinderTarget name="R1v2" sideLength="0.023000"/>
+        <CylinderTarget name="R4" sideLength="0.030000"/>
+        <CylinderTarget name="R3" sideLength="0.030000"/>
+        <CylinderTarget name="R2" sideLength="0.030000"/>
+        <CylinderTarget name="R1" sideLength="0.030000"/>
+        <CylinderTarget name="C2" sideLength="0.028000"/>
+        <CylinderTarget name="C1" sideLength="0.028000"/>
+        <ImageTarget name="Board3" size="0.060000 0.199980"/>
+        <ImageTarget name="T2.Top" size="0.030000 0.010000"/>
+        <ImageTarget name="T2.Back" size="0.030000 0.041992"/>
+        <ImageTarget name="T2.Left" size="0.010000 0.041992"/>
+        <ImageTarget name="T2.Right" size="0.010000 0.041992"/>
+        <ImageTarget name="T2.Front" size="0.030000 0.041992"/>
+        <ImageTarget name="T1.Top" size="0.030000 0.010000"/>
+        <ImageTarget name="T1.Back" size="0.030000 0.041992"/>
+        <ImageTarget name="T1.Left" size="0.010000 0.041992"/>
+        <ImageTarget name="T1.Right" size="0.010000 0.041992"/>
+        <ImageTarget name="T1.Front" size="0.030000 0.041992"/>
+        <ImageTarget name="cableExtra2.Top" size="0.057434 0.010002"/>
+        <ImageTarget name="cableExtra2.Back" size="0.057434 0.010002"/>
+        <ImageTarget name="cableExtra2.Left" size="0.010000 0.010000"/>
+        <ImageTarget name="cableExtra2.Right" size="0.010000 0.010000"/>
+        <ImageTarget name="cableExtra2.Front" size="0.057434 0.010002"/>
+        <ImageTarget name="cableExtra1.Top" size="0.057434 0.010002"/>
+        <ImageTarget name="cableExtra1.Back" size="0.057434 0.010002"/>
+        <ImageTarget name="cableExtra1.Left" size="0.010000 0.010000"/>
+        <ImageTarget name="cableExtra1.Right" size="0.010000 0.010000"/>
+        <ImageTarget name="cableExtra1.Front" size="0.057434 0.010002"/>
+        <ImageTarget name="cable4.Top" size="0.040000 0.010000"/>
+        <ImageTarget name="cable4.Back" size="0.040000 0.010000"/>
+        <ImageTarget name="cable4.Left" size="0.010000 0.010000"/>
+        <ImageTarget name="cable4.Right" size="0.010000 0.010000"/>
+        <ImageTarget name="cable4.Front" size="0.040000 0.010000"/>
+        <ImageTarget name="cable3.Top" size="0.040000 0.010000"/>
+        <ImageTarget name="cable3.Back" size="0.040000 0.010000"/>
+        <ImageTarget name="cable3.Left" size="0.010000 0.010000"/>
+        <ImageTarget name="cable3.Right" size="0.010000 0.010000"/>
+        <ImageTarget name="cable3.Front" size="0.040000 0.010000"/>
+        <ImageTarget name="cable2.Top" size="0.040000 0.010000"/>
+        <ImageTarget name="cable2.Back" size="0.040000 0.010000"/>
+        <ImageTarget name="cable2.Left" size="0.010000 0.010000"/>
+        <ImageTarget name="cable2.Right" size="0.010000 0.010000"/>
+        <ImageTarget name="cable2.Front" size="0.040000 0.010000"/>
+        <ImageTarget name="cable1.Top" size="0.040000 0.010000"/>
+        <ImageTarget name="cable1.Back" size="0.040000 0.010000"/>
+        <ImageTarget name="cable1.Left" size="0.010000 0.010000"/>
+        <ImageTarget name="cable1.Right" size="0.010000 0.010000"/>
+        <ImageTarget name="cable1.Front" size="0.040000 0.010000"/>
+        <MultiTarget name="T2">
+            <Part name="T2.Left" translation="-0.014999999664723873 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="T2.Right" translation="0.014999999664723873 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="T2.Front" translation="0 0 0.004999999888241291" rotation="AD: 1 0 0 0"/>
+            <Part name="T2.Back" translation="0 0 -0.004999999888241291" rotation="AD: 0 1 0 180"/>
+            <Part name="T2.Top" translation="0 0.020999999716877937 0" rotation="AD: 1 0 0 -90"/>
+        </MultiTarget>
+        <MultiTarget name="T1">
+            <Part name="T1.Left" translation="-0.014999999664723873 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="T1.Right" translation="0.014999999664723873 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="T1.Front" translation="0 0 0.004999999888241291" rotation="AD: 1 0 0 0"/>
+            <Part name="T1.Back" translation="0 0 -0.004999999888241291" rotation="AD: 0 1 0 180"/>
+            <Part name="T1.Top" translation="0 0.020999999716877937 0" rotation="AD: 1 0 0 -90"/>
+        </MultiTarget>
+        <MultiTarget name="cableExtra2">
+            <Part name="cableExtra2.Left" translation="-0.028717000037431717 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="cableExtra2.Right" translation="0.028717000037431717 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cableExtra2.Front" translation="0 0 0.004999999888241291" rotation="AD: 1 0 0 0"/>
+            <Part name="cableExtra2.Back" translation="0 0 -0.004999999888241291" rotation="AD: 0 1 0 180"/>
+            <Part name="cableExtra2.Top" translation="0 0.004999999888241291 0" rotation="AD: 1 0 0 -90"/>
+        </MultiTarget>
+        <MultiTarget name="cableExtra1">
+            <Part name="cableExtra1.Left" translation="-0.028717000037431717 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="cableExtra1.Right" translation="0.028717000037431717 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cableExtra1.Front" translation="0 0 0.004999999888241291" rotation="AD: 1 0 0 0"/>
+            <Part name="cableExtra1.Back" translation="0 0 -0.004999999888241291" rotation="AD: 0 1 0 180"/>
+            <Part name="cableExtra1.Top" translation="0 0.004999999888241291 0" rotation="AD: 1 0 0 -90"/>
+        </MultiTarget>
+        <MultiTarget name="cable4">
+            <Part name="cable4.Left" translation="-0.019999999552965164 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="cable4.Right" translation="0.019999999552965164 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cable4.Front" translation="0 0 0.004999999888241291" rotation="AD: 1 0 0 0"/>
+            <Part name="cable4.Back" translation="0 0 -0.004999999888241291" rotation="AD: 0 1 0 180"/>
+            <Part name="cable4.Top" translation="0 0.004999999888241291 0" rotation="AD: 1 0 0 -90"/>
+        </MultiTarget>
+        <MultiTarget name="cable3">
+            <Part name="cable3.Left" translation="-0.019999999552965164 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="cable3.Right" translation="0.019999999552965164 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cable3.Front" translation="0 0 0.004999999888241291" rotation="AD: 1 0 0 0"/>
+            <Part name="cable3.Back" translation="0 0 -0.004999999888241291" rotation="AD: 0 1 0 180"/>
+            <Part name="cable3.Top" translation="0 0.004999999888241291 0" rotation="AD: 1 0 0 -90"/>
+        </MultiTarget>
+        <MultiTarget name="cable2">
+            <Part name="cable2.Left" translation="-0.019999999552965164 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="cable2.Right" translation="0.019999999552965164 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cable2.Front" translation="0 0 0.004999999888241291" rotation="AD: 1 0 0 0"/>
+            <Part name="cable2.Back" translation="0 0 -0.004999999888241291" rotation="AD: 0 1 0 180"/>
+            <Part name="cable2.Top" translation="0 0.004999999888241291 0" rotation="AD: 1 0 0 -90"/>
+        </MultiTarget>
+        <MultiTarget name="cable1">
+            <Part name="cable1.Left" translation="-0.019999999552965164 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="cable1.Right" translation="0.019999999552965164 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cable1.Front" translation="0 0 0.004999999888241291" rotation="AD: 1 0 0 0"/>
+            <Part name="cable1.Back" translation="0 0 -0.004999999888241291" rotation="AD: 0 1 0 180"/>
+            <Part name="cable1.Top" translation="0 0.004999999888241291 0" rotation="AD: 1 0 0 -90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

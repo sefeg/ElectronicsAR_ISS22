@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="LEDpaintedV1" motionHint="static" trackingMode="default"/>
+<ModelTarget name="resistorPaintedV1" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="LEDpaintedV1s_assembly" assemblyId="68ddf06022754feab7cb036b4d083285">
+<Part name="LEDpaintedV1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.000760259 0.00303517 0.0949471" rotation="AD: 0.8799453969536288 2.0005480464832974 -0.5373999103990126 168.009" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="resistorPaintedV1s_assembly" assemblyId="cea6374d90a746d5a7f6fbb944badcb7">
+<Part name="resistorPaintedV1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0150892 0.00237555 0.0792049" rotation="AD: 0.9924036647117264 0.20544320008586178 -0.7824079599852829 203.008" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase name="test3" />
+</QCARConfig>

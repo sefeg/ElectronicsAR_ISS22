@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="LEDv1Painted" motionHint="static" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="LEDv1Painteds_assembly" assemblyId="5030126a897e4695920af07c6065687a">
+<Part name="LEDv1Painted" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.00329446 0.00110659 0.0982659" rotation="AD: 0.8752047627452337 1.989770246216016 -0.5481688883930377 167.722" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

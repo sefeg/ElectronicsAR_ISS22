@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="20.0" toolVersion="9.8.5">
+<ModelTarget name="Wiederstandv3" targetId="37fc62b11ed74c288c8d3cb52f0646db" version="11.1" toolVersion="9.8.5" bbox="-0.026085 -0.006000 -0.002641 0.023915 0.006000 0.026359" previewImage="37fc62b11ed74c288c8d3cb52f0646db_preview.jpg"/>
+<ModelTarget name="LEDpaintedV1" targetId="29c7e1bd939240aeaa910bde4f7473af" version="11.1" toolVersion="9.8.5" bbox="-0.011250 -0.013498 -0.027000 0.013500 0.013498 0.036250" previewImage="29c7e1bd939240aeaa910bde4f7473af_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="Wiederstandv3s_assembly" assemblyId="beaa386306de4a18aaaa55b28121bbd8">
+<Part name="Wiederstandv3" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.00105471 0.010205 0.0798384" rotation="AD: 0.22990331759534996 1.943063192860462 -1.1349265638492383 173.205" image="Wiederstandv3_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<Assembly name="LEDpaintedV1s_assembly" assemblyId="68ddf06022754feab7cb036b4d083285">
+<Part name="LEDpaintedV1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="-0.000760259 0.00303517 0.0949471" rotation="AD: 0.8799453969536288 2.0005480464832974 -0.5373999103990126 168.009" image="LEDpaintedV1_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+<ModelTargetDatabase mtDBid="f87426bcc42548129837f962565e66c5" name="Test2" toolVersion="13.0" version="13.0">
+    <RecognitionResult assemblyId="68ddf06022754feab7cb036b4d083285" assemblyName="LEDpaintedV1" entryPoint="viewpoint_0000" />
+    <RecognitionResult assemblyId="beaa386306de4a18aaaa55b28121bbd8" assemblyName="Wiederstandv3" entryPoint="viewpoint_0000" />
+</ModelTargetDatabase>
+
+</QCARInfo>

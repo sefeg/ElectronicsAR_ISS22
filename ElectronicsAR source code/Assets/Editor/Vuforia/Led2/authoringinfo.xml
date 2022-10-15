@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="20.0" toolVersion="9.8.5">
+<ModelTarget name="LED-Prot1" targetId="e898d9e515644d60bd5a72bf183923e8" version="11.1" toolVersion="9.8.5" bbox="-0.017250 -0.013498 -0.022525 0.007500 0.013498 0.038900" previewImage="e898d9e515644d60bd5a72bf183923e8_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="LED-Prot1s_assembly" assemblyId="9c1290ab98b9476fbfda3eb63c32b5b5">
+<Part name="LED-Prot1" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.00329446 0.00110659 0.0982659" rotation="AD: 0.8752047274211225 1.9897706879963268 -0.5481689319846342 167.722" image="LED-Prot1_viewpoint_0000.png" trained="yes">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>

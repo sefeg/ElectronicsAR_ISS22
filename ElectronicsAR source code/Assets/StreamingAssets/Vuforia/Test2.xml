@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <CylinderTarget name="ResistorCyl" sideLength="0.015000"/>
+        <CylinderTarget name="LEDCyl" sideLength="0.025000"/>
+        <CylinderTarget name="15mm2" sideLength="0.015000"/>
+        <CylinderTarget name="30mmKabel3" sideLength="0.035000"/>
+        <CylinderTarget name="30mm_Kabel" sideLength="0.025000"/>
+        <CylinderTarget name="15mm_Kabel" sideLength="0.010000"/>
+        <ImageTarget name="ar" size="0.040000 0.078769"/>
+        <ImageTarget name="board" size="0.040000 0.040000"/>
+        <ImageTarget name="BoardMarker2" size="0.040000 0.040071"/>
+        <ImageTarget name="cube075cmprinted.Bottom" size="0.035000 0.007494"/>
+        <ImageTarget name="cube075cmprinted.Top" size="0.035000 0.007494"/>
+        <ImageTarget name="cube075cmprinted.Left" size="0.007500 0.007500"/>
+        <ImageTarget name="cube075cmprinted.Front" size="0.035000 0.007494"/>
+        <ImageTarget name="cube075cmprinted.Back" size="0.035000 0.007494"/>
+        <ImageTarget name="cube075cmprinted.Right" size="0.007500 0.007500"/>
+        <ImageTarget name="cube1cmprintedV1.Bottom" size="0.035000 0.010006"/>
+        <ImageTarget name="cube1cmprintedV1.Top" size="0.035000 0.010006"/>
+        <ImageTarget name="cube1cmprintedV1.Left" size="0.010000 0.010000"/>
+        <ImageTarget name="cube1cmprintedV1.Front" size="0.035000 0.010006"/>
+        <ImageTarget name="cube1cmprintedV1.Back" size="0.035000 0.010006"/>
+        <ImageTarget name="cube1cmprintedV1.Right" size="0.010000 0.010000"/>
+        <ImageTarget name="cubeLeitung1cm.Bottom" size="0.035000 0.010006"/>
+        <ImageTarget name="cubeLeitung1cm.Top" size="0.035000 0.010006"/>
+        <ImageTarget name="cubeLeitung1cm.Left" size="0.010000 0.010000"/>
+        <ImageTarget name="cubeLeitung1cm.Front" size="0.035000 0.010006"/>
+        <ImageTarget name="cubeLeitung1cm.Back" size="0.035000 0.010006"/>
+        <ImageTarget name="cubeLeitung1cm.Right" size="0.010000 0.010000"/>
+        <ImageTarget name="30mmCubTest2.Bottom" size="0.005000 0.034836"/>
+        <ImageTarget name="30mmCubTest2.Top" size="0.005000 0.034836"/>
+        <ImageTarget name="30mmCubTest2.Left" size="0.035000 0.010006"/>
+        <ImageTarget name="30mmCubTest2.Front" size="0.005000 0.009959"/>
+        <ImageTarget name="30mmCubTest2.Back" size="0.005000 0.009959"/>
+        <ImageTarget name="30mmCubTest2.Right" size="0.035000 0.010006"/>
+        <ImageTarget name="30mmTest.Bottom" size="0.035000 0.005000"/>
+        <ImageTarget name="30mmTest.Top" size="0.035000 0.005000"/>
+        <ImageTarget name="30mmTest.Left" size="0.005000 0.005000"/>
+        <ImageTarget name="30mmTest.Front" size="0.035000 0.005000"/>
+        <ImageTarget name="30mmTest.Back" size="0.035000 0.005000"/>
+        <ImageTarget name="30mmTest.Right" size="0.005000 0.005000"/>
+        <ImageTarget name="test15mm.Bottom" size="0.015000 0.005000"/>
+        <ImageTarget name="test15mm.Top" size="0.015000 0.005000"/>
+        <ImageTarget name="test15mm.Left" size="0.005000 0.005000"/>
+        <ImageTarget name="test15mm.Front" size="0.015000 0.005000"/>
+        <ImageTarget name="test15mm.Back" size="0.015000 0.005000"/>
+        <ImageTarget name="test15mm.Right" size="0.005000 0.005000"/>
+        <MultiTarget name="cube075cmprinted">
+            <Part name="cube075cmprinted.Left" translation="-0.017500000074505806 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="cube075cmprinted.Right" translation="0.017500000074505806 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cube075cmprinted.Front" translation="0 0 0.0037499999161809683" rotation="AD: 1 0 0 0"/>
+            <Part name="cube075cmprinted.Back" translation="0 0 -0.0037499999161809683" rotation="AD: 0 1 0 180"/>
+            <Part name="cube075cmprinted.Top" translation="0 0.0037499999161809683 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="cube075cmprinted.Bottom" translation="0 -0.0037499999161809683 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="cube1cmprintedV1">
+            <Part name="cube1cmprintedV1.Left" translation="-0.017500000074505806 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="cube1cmprintedV1.Right" translation="0.017500000074505806 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cube1cmprintedV1.Front" translation="0 0 0.004999999888241291" rotation="AD: 1 0 0 0"/>
+            <Part name="cube1cmprintedV1.Back" translation="0 0 -0.004999999888241291" rotation="AD: 0 1 0 180"/>
+            <Part name="cube1cmprintedV1.Top" translation="0 0.004999999888241291 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="cube1cmprintedV1.Bottom" translation="0 -0.004999999888241291 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="cubeLeitung1cm">
+            <Part name="cubeLeitung1cm.Left" translation="-0.017500000074505806 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="cubeLeitung1cm.Right" translation="0.017500000074505806 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cubeLeitung1cm.Front" translation="0 0 0.004999999888241291" rotation="AD: 1 0 0 0"/>
+            <Part name="cubeLeitung1cm.Back" translation="0 0 -0.004999999888241291" rotation="AD: 0 1 0 180"/>
+            <Part name="cubeLeitung1cm.Top" translation="0 0.004999999888241291 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="cubeLeitung1cm.Bottom" translation="0 -0.004999999888241291 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="30mmCubTest2">
+            <Part name="30mmCubTest2.Left" translation="-0.0024999999441206455 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="30mmCubTest2.Right" translation="0.0024999999441206455 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="30mmCubTest2.Front" translation="0 0 0.017500000074505806" rotation="AD: 1 0 0 0"/>
+            <Part name="30mmCubTest2.Back" translation="0 0 -0.017500000074505806" rotation="AD: 0 1 0 180"/>
+            <Part name="30mmCubTest2.Top" translation="0 0.004999999888241291 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="30mmCubTest2.Bottom" translation="0 -0.004999999888241291 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="30mmTest">
+            <Part name="30mmTest.Left" translation="-0.017500000074505806 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="30mmTest.Right" translation="0.017500000074505806 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="30mmTest.Front" translation="0 0 0.0024999999441206455" rotation="AD: 1 0 0 0"/>
+            <Part name="30mmTest.Back" translation="0 0 -0.0024999999441206455" rotation="AD: 0 1 0 180"/>
+            <Part name="30mmTest.Top" translation="0 0.0024999999441206455 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="30mmTest.Bottom" translation="0 -0.0024999999441206455 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="test15mm">
+            <Part name="test15mm.Left" translation="-0.007499999832361937 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="test15mm.Right" translation="0.007499999832361937 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="test15mm.Front" translation="0 0 0.0024999999441206455" rotation="AD: 1 0 0 0"/>
+            <Part name="test15mm.Back" translation="0 0 -0.0024999999441206455" rotation="AD: 0 1 0 180"/>
+            <Part name="test15mm.Top" translation="0 0.0024999999441206455 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="test15mm.Bottom" translation="0 -0.0024999999441206455 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="LED-cylinder1" version="3.0" targetId="87a20d8148fa44c1b6a579c6ba491bc2" sideLength="0.025000" topDiameter="0.023000" bottomDiameter="0.023000" sideImage="LED-cylinder1.Body_scaled.jpg" topImage="LED-cylinder1.Top_scaled.jpg" bottomImage="LED-cylinder1.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

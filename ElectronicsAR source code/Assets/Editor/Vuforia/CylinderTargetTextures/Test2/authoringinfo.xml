@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.0">
+        <CylinderTarget name="ResistorCyl" version="3.0" targetId="55b8036cbb814d8facc607bbd3d6da8c" sideLength="0.015000" topDiameter="0.011000" bottomDiameter="0.011000" sideImage="ResistorCyl.Body_scaled.jpg" topImage="ResistorCyl.Top_scaled.jpg" bottomImage="ResistorCyl.Bottom_scaled.jpg"/>
+        <CylinderTarget name="LEDCyl" version="3.0" targetId="213ec74726df488caaef190ca3aaeb7b" sideLength="0.025000" topDiameter="0.022500" bottomDiameter="0.022500" sideImage="LEDCyl.Body_scaled.jpg" topImage="LEDCyl.Top_scaled.jpg" bottomImage="LEDCyl.Bottom_scaled.jpg"/>
+        <CylinderTarget name="15mm2" version="3.0" targetId="2926794fd1d34278ba871660a14f2b81" sideLength="0.015000" topDiameter="0.005000" bottomDiameter="0.005000" sideImage="15mm2.Body_scaled.jpg" topImage="15mm2.Top_scaled.jpg" bottomImage="15mm2.Bottom_scaled.jpg"/>
+        <CylinderTarget name="30mmKabel3" version="3.0" targetId="1fa3192042b3496ba09a63fb50dced5d" sideLength="0.035000" topDiameter="0.005000" bottomDiameter="0.005000" sideImage="30mmKabel3.Body_scaled.jpg" topImage="30mmKabel3.Top_scaled.jpg" bottomImage="30mmKabel3.Bottom_scaled.jpg"/>
+        <CylinderTarget name="30mm_Kabel" version="3.0" targetId="2555e15a8d0b41d09765bb3683210b7a" sideLength="0.025000" topDiameter="0.005000" bottomDiameter="0.005000" sideImage="30mm_Kabel.Body_scaled.jpg" topImage="30mm_Kabel.Top_scaled.jpg" bottomImage="30mm_Kabel.Bottom_scaled.jpg"/>
+        <CylinderTarget name="15mm_Kabel" version="3.0" targetId="35c4ac5c97824c7dbb3f8b0993edb924" sideLength="0.010000" topDiameter="0.005000" bottomDiameter="0.005000" sideImage="15mm_Kabel.Body_scaled.jpg" topImage="15mm_Kabel.Top_scaled.jpg" bottomImage="15mm_Kabel.Bottom_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>
